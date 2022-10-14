@@ -1,0 +1,19 @@
+{
+  "name": "javascript-learning",
+  "version": "1.0.0",
+  "description": "Javascript learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkolamala1984/javascript-learning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkolamala1984/javascript-learning/issues"
+  },
+  "homepage": "https://github.com/kkolamala1984/javascript-learning#readme"
+}
